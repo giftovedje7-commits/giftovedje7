@@ -1,9 +1,8 @@
 <h1> I'm Gift Ovedje! </h1>
 
-<h2> Journalism Major </h2>
+<h6> Journalism Major </h6>
 
 <b> Media personel </b>
 
-[Active in Media Design] 
 
 
